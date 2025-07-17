@@ -1,8 +1,6 @@
-# Firebase Studio
+# InfoHound
 
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
+InfoHound is a modern web tool designed to extract and analyze company information from any website URL. It leverages AI-powered flows to gather details such as company name, contact information, technology stack, and more. Built with Next.js and Genkit, InfoHound provides a fast, user-friendly interface for business intelligence and research.
 
 ## Documentation
 
